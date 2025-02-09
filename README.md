@@ -37,9 +37,9 @@ The model will predict whether the transaction is Legit or Fraudulent.
 ## Dependencies
 Ensure you have Python installed along with the following libraries:
 
-numpy
-pandas
-scikit-learn
+numpy,
+pandas,
+scikit-learn,
 streamlit
 
 pip install numpy pandas scikit-learn streamlit
